@@ -5,4 +5,4 @@ wideq_state.json
 __pycache__
 
 # Ignore Mac system files
-.DS_store
+.DS_Store
