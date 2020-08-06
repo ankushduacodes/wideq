@@ -23,7 +23,6 @@ class ACJetMode(enum.Enum):
     HEAT = "@HEAT_JET"
     DRY = "@DRY_JET_W"
     HIMALAYAS = "@HIMALAYAS_COOL"
-    
 
 class ACVSwingMode(enum.Enum):
     """The vertical swing mode for an AC/HVAC device.
